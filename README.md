@@ -22,6 +22,26 @@ Usage
 @import 'node_modules/move.css/move.css';
 ```
 
+Fade:
+
 ```css
-animation-name: fade-in | fade-out | rotate-right | rotate-left | scale-in | scale-out | move-up | move-down | move-right | move-left;
+animation-name: fade-in | fade-out;
+```
+
+Rotate:
+
+```css
+animation-name: rotate-right | rotate-left;
+```
+
+Scale:
+
+```css
+animation-name: scale-in | scale-out;
+```
+
+Move:
+
+```css
+animation-name: move-up | move-down | move-right | move-left;
 ```
