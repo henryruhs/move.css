@@ -1,0 +1,25 @@
+{
+	"name": "move.css",
+	"description": "Like animate.css but without the bad parts",
+	"version": "1.0.0",
+	"license": "GPL-3.0",
+	"keywords":
+	[
+		"css",
+		"animate"
+	],
+	"author":
+	{
+		"name": "Henry Ruhs",
+		"url": "https://redaxmedia.com"
+	},
+	"bugs":
+	{
+		"url": "https://github.com/redaxmedia/animate.css/issues"
+	},
+	"repository":
+	{
+		"type": "git",
+		"url": "https://github.com/redaxmedia/animate.css.git"
+	}
+}
