@@ -1,7 +1,7 @@
 {
 	"name": "move.css",
 	"description": "Like animate.css but without the bad parts",
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"license": "GPL-3.0",
 	"keywords":
 	[
@@ -15,11 +15,11 @@
 	},
 	"bugs":
 	{
-		"url": "https://github.com/redaxmedia/animate.css/issues"
+		"url": "https://github.com/redaxmedia/move.css/issues"
 	},
 	"repository":
 	{
 		"type": "git",
-		"url": "https://github.com/redaxmedia/animate.css.git"
+		"url": "https://github.com/redaxmedia/move.css.git"
 	}
 }
