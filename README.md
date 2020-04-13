@@ -5,6 +5,7 @@ move.css
 
 [![NPM Version](https://img.shields.io/npm/v/move.css.svg)](https://npmjs.com/package/move.css)
 [![License](https://img.shields.io/npm/l/move.css.svg)](https://npmjs.com/package/move.css)
+[![Codepen Playground](https://img.shields.io/badge/codepen-playground-0088cc.svg)](https://codepen.io/redaxmedia/pen/poJybPz)
 
 
 Installation
