@@ -19,7 +19,7 @@ npm install move.css
 Setup
 -----
 
-Import the `move.css`file as needed:
+Import the `move.css` file as needed:
 
 ```css
 @import 'node_modules/move.css/move.css';
