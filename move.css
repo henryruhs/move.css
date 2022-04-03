@@ -1,26 +1,3 @@
-/**
- * @tableofcontents
- *
- * 1. fade
- *    1.1 in
- *    1.2 out
- * 2. rotate
- *    2.1 right
- *    2.2 left
- * 3. scale
- *    3.1 in
- *    3.2 out
- * 4. move
- *    4.1 up
- *    4.2 down
- *    4.3 right
- *    4.4 left
- */
-
-/** @section 1. fade */
-
-/** @section 1.1 in */
-
 @keyframes fade-in
 {
 	from
@@ -33,8 +10,6 @@
 		opacity: 1;
 	}
 }
-
-/** @section 1.2 out */
 
 @keyframes fade-out
 {
@@ -49,10 +24,6 @@
 	}
 }
 
-/** @section 2. rotate */
-
-/** @section 2.1 right */
-
 @keyframes rotate-right
 {
 	from
@@ -65,8 +36,6 @@
 		transform: rotate(360deg);
 	}
 }
-
-/** @section 2.2 left */
 
 @keyframes rotate-left
 {
@@ -81,10 +50,6 @@
 	}
 }
 
-/** @section 3. scale */
-
-/** @section 3.1 in */
-
 @keyframes scale-in
 {
 	from
@@ -97,8 +62,6 @@
 		transform: scale(1);
 	}
 }
-
-/** @section 3.2 out */
 
 @keyframes scale-out
 {
@@ -113,10 +76,6 @@
 	}
 }
 
-/** @section 4. move */
-
-/** @section 4.1 up */
-
 @keyframes move-up
 {
 	from
@@ -129,8 +88,6 @@
 		transform: translateY(0);
 	}
 }
-
-/** @section 4.2 down */
 
 @keyframes move-down
 {
@@ -145,8 +102,6 @@
 	}
 }
 
-/** @section 4.3 right */
-
 @keyframes move-right
 {
 	from
@@ -159,8 +114,6 @@
 		transform: translateX(0);
 	}
 }
-
-/** @section 4.4 left */
 
 @keyframes move-left
 {

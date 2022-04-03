@@ -1,7 +1,7 @@
 {
 	"name": "move.css",
 	"description": "Like animate.css but without the bad parts",
-	"version": "2.0.0",
+	"version": "2.0.1",
 	"license": "MIT",
 	"keywords":
 	[
@@ -15,15 +15,15 @@
 	"author":
 	{
 		"name": "Henry Ruhs",
-		"url": "https://redaxmedia.com"
+		"url": "https://henryruhs.com"
 	},
 	"bugs":
 	{
-		"url": "https://github.com/redaxmedia/move.css/issues"
+		"url": "https://github.com/henryruhs/move.css/issues"
 	},
 	"repository":
 	{
 		"type": "git",
-		"url": "https://github.com/redaxmedia/move.css.git"
+		"url": "https://github.com/henryruhs/move.css.git"
 	}
 }
